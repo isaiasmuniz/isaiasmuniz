@@ -1,8 +1,8 @@
-## Olá, Sou Isaias Muniz, Bem Vindo ao meu github 😁
+## Olá, Sou Isaias Muniz, Bem-Vindo ao meu github 😁
 
 <p align="left">
  - 🔭 Busco minha primeira oportunidade profissional para aplicar minhas habilidades,
- contribuir com equipes ágeis e continuar evoluindo como desenvolvedor backend.
+ contribuir com equipes ágeis e continuar evoluindo como desenvolvedor backend.</br>
 - 🌱 Aprimorando conhecimentos em spring boot
 </p>
 

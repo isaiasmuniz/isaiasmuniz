@@ -18,7 +18,12 @@
  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 </p>
 
- ![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isaiasmuniz&layout=compact&theme=tokyonight)
+<br>
+
+<img 
+  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isaiasmuniz&layout=compact&theme=tokyonight"
+  width="350"
+/>
 
 <br>
 <br>
@@ -45,5 +50,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:isaiasmuniz8@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)]([(https://www.linkedin.com/in/isaias-muniz-201233307/))
+  [![Gmail](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:isaiasmuniz8@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-muniz-201233307/)
+
+

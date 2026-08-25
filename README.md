@@ -20,14 +20,6 @@
 
 <br>
 
-<img 
-  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=isaiasmuniz&layout=compact&theme=tokyonight"
-  width="350"
-/>
-
-<br>
-<br>
-
 <details align="center">  
   <summary>
       <samp>
